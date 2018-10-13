@@ -21,7 +21,7 @@
 - [RxJava操作手册](#)
 - [Java基础学习](#)
 - [Java虚拟机](#)
-  - [基础巩固之图解类加载过程与双亲委派模型](https://github.com/byhook/blog/blob/master/Java/基础巩固之图解类加载过程与双亲委派模型.md)
+  - [基础巩固之图解类加载过程与双亲委派模型](https://github.com/byhook/blog/blob/master/java/基础巩固之图解类加载过程与双亲委派模型.md)
 - [Java并发编程](#)
 - [计算机网络](#)
 - [操作系统](#)
