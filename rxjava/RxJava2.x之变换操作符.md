@@ -313,25 +313,6 @@ accept {B组=4, A组=8}
 
 Process finished with exit code 0
 ```
-### map
-`map操作符作为基本的转换操作符，可以把每一个元素转换成新的元素发射`
-```java
-
-```
-输出:
-```java
-
-```
-### map
-`map操作符作为基本的转换操作符，可以把每一个元素转换成新的元素发射`
-```java
-
-```
-输出:
-```java
-
-```
-
 复习文档
 https://github.com/byhook/rxjava2-study
 参考:
