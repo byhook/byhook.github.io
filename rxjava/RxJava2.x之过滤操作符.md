@@ -3,6 +3,20 @@
 ## 过滤操作符
 
 - [filter操作符]()
+- [take操作符]()
+- [takeLast操作符]()
+- [firstElement/lastElement操作符]()
+- [first/last操作符]()
+- [firstOrError/lastOrError操作符]()
+- [elementAt/elementAtOrError操作符]()
+- [ofType操作符]()
+- [skip/skipLast操作符]()
+- [ignoreElements操作符]()
+- [distinct/distinctUntilChanged操作符]()
+- [timeout操作符]()
+- [throttleFirst操作符]()
+- [throttleLast/sample操作符]()
+- [throttleWithTimeout/debounce操作符]()
 
 ### filter
 `filter操作符，可以自己设定任意的规则来过滤数据`
