@@ -1,4 +1,5 @@
-学习目标
+
+后续会逐步把[CSDN博客](https://blog.csdn.net/byhook)的内容迁移到这里来。
 
 - [Android开发](#)
     - [自定义控件]
