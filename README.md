@@ -1,49 +1,81 @@
+<div align="center">
 
-后续会逐步把[CSDN博客](https://blog.csdn.net/byhook)的内容迁移到这里来。
+  # Chirpy Jekyll Theme
 
-- [Android开发](#)
-    - [自定义控件]
-    - [事件分发机制]
-    - [Android中的进程]
-    - [进程保活方案]
-- [Android系统源代码](#)
-    - [Android源代码编译](https://github.com/byhook/byhook.github.io/blob/master/android/Android源代码编译.md)
-- [Android源码分析](#)
-    - [HandleThread源码分析]
-    - [AsyncTask源码分析]
-    - [Glide源码分析]
-    - [Retrofit源码分析]
-    - [RxBus源码分析]
-    - [GreenDao源码分析]
-    - [Retrofit源码分析]
-- [Android组件化](#)
-- [Android插件化](#)
-- [Android性能优化](#)
-- [设计模式](#)
-- [RxJava操作手册](#)
-    - [RxJava 2.x 之创建操作符](https://github.com/byhook/byhook.github.io/blob/master/rxjava/RxJava2.x之创建操作符.md)
-    - [RxJava 2.x 之过滤操作符](https://github.com/byhook/byhook.github.io/blob/master/rxjava/RxJava2.x之过滤操作符.md)
-    - [RxJava 2.x 之聚合操作符](https://github.com/byhook/byhook.github.io/blob/master/rxjava/RxJava2.x之聚合操作符.md)
-    - [RxJava 2.x 之条件操作符](https://github.com/byhook/byhook.github.io/blob/master/rxjava/RxJava2.x之条件操作符.md)
-    - [RxJava 2.x 之变换操作符](https://github.com/byhook/byhook.github.io/blob/master/rxjava/RxJava2.x之变换操作符.md)
-- [Java基础学习](#)
-- [Java虚拟机](#)
-  - [基础巩固之图解类加载过程与双亲委派模型](https://github.com/byhook/byhook.github.io/blob/master/java/基础巩固之图解类加载过程与双亲委派模型.md)
-- [Java并发编程](#)
-- [计算机网络](#)
-- [操作系统](#)
-- [NDK开发](#)
-    - [Android-Studio调试NDK](https://github.com/byhook/byhook.github.io/blob/master/ndk/Android-Studio调试NDK.md)
-    - [认识Android.mk和Application.mk](https://github.com/byhook/byhook.github.io/blob/master/ndk/认识Android.mk和Application.mk.md)
-    - [ubuntu移植crypto++到Android平台](https://github.com/byhook/byhook.github.io/blob/master/ndk/ubuntu移植crypto++到Android平台.md)
-    - [ubuntu移植libcurl到Android平台](https://github.com/byhook/byhook.github.io/blob/master/ndk/ubuntu移植libcurl到Android平台.md)
-    - [ubuntu移植jsoncpp到Android平台](https://github.com/byhook/byhook.github.io/blob/master/ndk/ubuntu移植jsoncpp到Android平台.md)
-    - [ubuntu移植libwebp到Android平台](https://github.com/byhook/byhook.github.io/blob/master/ndk/ubuntu移植libwebp到Android平台.md)
-    - [ubuntu移植Tcpdump到Android平台](https://github.com/byhook/byhook.github.io/blob/master/ndk/ubuntu移植Tcpdump到Android平台.md)
-    - [ubuntu移植FFmpeg到Android平台](https://github.com/byhook/byhook.github.io/blob/master/ndk/ubuntu移植FFmpeg到Android平台.md)
-    - [ubuntu移植FFmpeg和x264到Android平台](https://github.com/byhook/byhook.github.io/blob/master/ndk/ubuntu移植FFmpeg和x264到Android平台.md)
-    - [NDK支持的C++运行库](https://github.com/byhook/byhook.github.io/blob/master/ndk/NDK支持的C++运行库.md)
-    - [NDK交叉编译模板](https://github.com/byhook/byhook.github.io/blob/master/ndk/NDK交叉编译模板.md)
-    - [NDK交叉编译之自定义工具链](https://github.com/byhook/byhook.github.io/blob/master/ndk/NDK交叉编译之自定义工具链.md)
-- [Linux](#)
-- [C/C++](#)
+  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+
+  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
+  [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)][codacy]&nbsp;
+  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)][license]&nbsp;
+  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
+
+  [**Live Demo** →][demo]
+
+  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+
+</div>
+
+## Features
+
+- Dark / Light Theme Mode
+- Localized UI language
+- Pinned Posts on Home Page
+- Hierarchical Categories
+- Trending Tags
+- Table of Contents
+- Last Modified Date
+- Syntax Highlighting
+- Mathematical Expressions
+- Mermaid Diagrams & Flowcharts
+- Dark / Light Mode Images
+- Embed Videos
+- Disqus / Giscus / Utterances Comments
+- Built-in Search
+- Atom Feeds
+- PWA
+- Google Analytics
+- SEO & Performance Optimization
+
+## Documentation
+
+To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
+
+## Contributing
+
+Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
+to learn, inspire, and create. Any contributions you make are greatly appreciated.
+For details, see the "[Contributing Guidelines][contribute-guide]".
+
+## Credits
+
+### Contributors
+
+Thanks to [all the contributors][contributors] involved in the development of the project!
+
+[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
+<sub> —— Made with [contrib.rocks](https://contrib.rocks)</sub>
+
+### Third-Party Assets
+
+This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
+
+The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
+
+## License
+
+This project is published under [MIT License][license].
+
+[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
+[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
+[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
+[jekyllrb]: https://jekyllrb.com/
+[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
+[demo]: https://cotes2020.github.io/chirpy-demo/
+[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
+[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
+[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
+[lib]: https://github.com/cotes2020/chirpy-static-assets
+[vscode]: https://code.visualstudio.com/
+[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
